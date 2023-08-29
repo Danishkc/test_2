@@ -1,0 +1,5 @@
+{{#user}}
+Name: Muhammed Danish 
+Skills: HTML, CSS, JS, Python, Django, MySQL, Nodejs, C, C++, Java, Bootsrap
+Email: danishkc0007@gmail.com
+{{/user}}
